@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/01. Scene/Intro.unity
     guid: c1d3bae49a196424f98370bba7a4614b
   - enabled: 1
-    path: Assets/01. Scene/Simple_Main.unity
-    guid: 69a7b3a316586184eb775c1920d576f3
+    path: Assets/01. Scene/Find_Map.unity
+    guid: 6f8cf7cab11fce046b992b5e94c14f56
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

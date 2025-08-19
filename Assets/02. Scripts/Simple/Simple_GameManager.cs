@@ -8,6 +8,6 @@ public class Simple_GameManager : MonoBehaviourPun
     private IEnumerator Start()
     {
         yield return null;
-        PhotonNetwork.Instantiate("Character", Vector3.zero, Quaternion.identity);
+        PhotonNetwork.Instantiate("Simple_Character", Vector3.zero, Quaternion.identity);
     }
 }
