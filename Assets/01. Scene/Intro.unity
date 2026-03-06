@@ -985,7 +985,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Welcome Photon
+  m_text: Find Player!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: de7dc44d938ff174ea45a0a136f9d79f, type: 2}
   m_sharedMaterial: {fileID: -413766752884843024, guid: de7dc44d938ff174ea45a0a136f9d79f, type: 2}
@@ -1606,7 +1606,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.5081524, g: 0.9716981, b: 0.4995995, a: 1}
+  m_Color: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
